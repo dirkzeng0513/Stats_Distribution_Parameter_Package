@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='stats_dstr_package',
+    name='statsDstrPackage',
     version='0.1',
     packages=[''],
     url='',
